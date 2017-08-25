@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/text_back_dir">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_in_the_backup"
+                    android:icon="@drawable/ic_itb"
+                    android:title="@string/text_itb" />
+                <item
+                    android:id="@+id/nav_in_the_images"
+                    android:icon="@drawable/ic_ini"
+                    android:title="@string/text_iti" />
+                <item
+                    android:id="@+id/nav_in_the_cache"
+                    android:icon="@drawable/ic_inc"
+                    android:title="@string/text_inc" />
+
+                <item
+                    android:id="@+id/nav_properties"
+                    android:icon="@drawable/ic_prop"
+                    android:title="@string/text_properties" />
+
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="@string/text_actions">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_zip"
+                    android:icon="@drawable/ic_zip"
+                    android:title="@string/text_zip" />
+
+                <item
+                    android:id="@+id/nav_delete_backup"
+                    android:icon="@drawable/ic_delete"
+                    android:title="@string/text_delete" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

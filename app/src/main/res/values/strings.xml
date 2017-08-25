@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">T2B Xplorer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="text_itb">In the backup</string>
+    <string name="text_iti">In the images</string>
+    <string name="text_inc">In the cache</string>
+    <string name="text_main">Swipe from the left to begin</string>
+    <string name="text_app_complete">The Ultimate Phone Book 2</string>
+    <string name="text_app_complete_2">Backup Xplorer</string>
+    <string name="text_delete">Delete Backup</string>
+    <string name="text_properties">Properties</string>
+    <string name="text_zip">Zip</string>
+    <string name="text_back_dir">Backup Directory</string>
+    <string name="text_actions">Actions</string>
+    <string name="text_cloud_properties">Cloud Properties</string>
+</resources>
